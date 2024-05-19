@@ -1,0 +1,11 @@
+/* Footer.css */
+.footer-container {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Footer.css */
+.footer-container {
+  margin-top: auto; /* Pushes the footer to the bottom */
+}
